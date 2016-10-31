@@ -4,7 +4,7 @@ $rules = array(
     //
     //main pages
     //
-    'about' => "/inc/scripts/about",
+    'about' => "/inc/about",
     'contactus' => "/contactus",
     'blog' => "/blog",
     'blog_article' => "/blog/(?'blogID'[\w\-]+)",
